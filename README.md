@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VladislavLevchuk
 - 👀 I’m interested in Finance, Data Analytics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on (-)
 - 📫 How to reach me: levchuk.vlav@gmail.com
 
 <!---
